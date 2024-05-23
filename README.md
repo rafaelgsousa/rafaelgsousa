@@ -1,7 +1,7 @@
 # RafaelSousa
 
-Hello World! 
-Sou um apaixonado por matemática e tecnologia. Meu nome é Rafael, nasci em janeiro de 1990 e sou natural de Teresina, Piauí. Desde cedo a matemática me fascinou com sua lógica e beleza, enquanto a tecnologia me impressiona com seu potencial para criar grandes soluções para os mais diversos tipos de situaçõesS.
+Hello World! </br>
+Sou um apaixonado por matemática e tecnologia. Meu nome é Rafael, nasci em janeiro de 1990 e sou natural de Teresina, Piauí. Desde cedo a matemática me fascinou com sua lógica e beleza, enquanto a tecnologia me impressiona com seu potencial para criar grandes soluções para os mais diversos tipos de situações.
 
 Formei-me em licenciatura em matemática e, alguns anos depois, ao ter contato com pessoas que trabalhavam com desenvolvimento de software, decidi ingressar nessa área da qual sou apaixonado. Dedico-me a essa área há mais de quatro anos e trabalho como desenvolvedor há dois anos e meio.
 
