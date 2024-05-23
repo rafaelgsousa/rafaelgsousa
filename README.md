@@ -51,11 +51,11 @@ Atualmente, atuo como desenvolvedor backend na Secretaria de Justiça do Estado 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:elderrafaelgomes@gmail.com)
 
 
-## Card - Stats
+<!-- ## Card - Stats
 
 | Preview |
 |:-------:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelgsousa&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) | `theme=transparent` `bg_color=000` `border_color=30A3DC` `show_icons=true` `icon_color=30A3DC` `title_color=E94D5F` `text_color=FFF`|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelgsousa&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) | `theme=transparent` `bg_color=000` `border_color=30A3DC` `show_icons=true` `icon_color=30A3DC` `title_color=E94D5F` `text_color=FFF`|  -->
 
 ## Card - Most Used Languages
 | Preview |
