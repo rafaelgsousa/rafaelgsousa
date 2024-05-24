@@ -41,6 +41,7 @@ Atualmente, atuo como desenvolvedor backend na Secretaria de Justiça do Estado 
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker)
 
 ## Conecte-se comigo
 
