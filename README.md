@@ -7,6 +7,8 @@ Formei-me em licenciatura em matemática e, alguns anos depois, ao ter contato c
 
 Atualmente, atuo como desenvolvedor backend na Secretaria de Justiça do Estado do Piauí. Sou um profissional sempre disposto a aprender coisas novas e que busca aperfeiçoar suas habilidades continuamente.
 
+Nas horas vagas gosto de estar com a minha família, ler, estudar, gosto de artes marciais, rpg de mesa, xadrez e assistir animes, series e filmes também, dentre algumas outras coisas mais.
+
 <img height="150" width="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFoM2QzMmhlZHE3aDN3aXVhZTU2bHNjdm1oMjFtbXhpaWJ0ZDZtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  /></br>
 
 ## 💻 Linguagens/Libs/Frameworks que tenho experiência de trabalho:
