@@ -3,7 +3,7 @@
 Hello World! </br>
 Sou um apaixonado por matemática e tecnologia. Meu nome é Rafael, nasci em janeiro de 1990 em Teresina, Piauí. Desde cedo a matemática me chamou a atenção com sua lógica e soluções, enquanto a tecnologia me impressiona com seu potencial para criar grandes soluções para os mais diversos tipos de situações.
 
-Formei-me em licenciatura em matemática e, alguns anos depois, ao ter contato com pessoas que trabalhavam com desenvolvimento de software, decidi ingressar nessa área da qual gosto muito. Dedico-me a essa área desde o final de 2019 e comece a trabalhar na área em agosto de 2021, como um tipo de monitor ajudando na correção e tirando duvidas de alunos e como desenvolvedor desde maior de 2022.
+Formei-me em licenciatura em matemática e, alguns anos depois, ao ter contato com pessoas que trabalhavam com desenvolvimento de software, decidi ingressar nessa área da qual gosto muito. Dedico-me a essa área desde o final de 2019 e comecei a trabalhar na área em Agosto de 2021, como um tipo de monitor ajudando na correção e tirando duvidas de alunos, e como desenvolvedor desde Maio de 2022.
 
 Atualmente, atuo como desenvolvedor backend na Secretaria de Justiça do Estado do Piauí. Sou um profissional sempre disposto a aprender coisas novas e que busca aperfeiçoar suas habilidades continuamente.
 
