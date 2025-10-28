@@ -3,7 +3,7 @@
 Hello World! </br>
 Sou um apaixonado por matemática e tecnologia. Meu nome é Rafael, nasci em janeiro de 1990 em Teresina, Piauí. Desde cedo a matemática me chamou a atenção com sua lógica e soluções, enquanto a tecnologia me impressiona com seu potencial para criar grandes soluções para os mais diversos tipos de situações.
 
-Formei-me em licenciatura em matemática e, alguns anos depois, ao ter contato com pessoas que trabalhavam com desenvolvimento de software, decidi ingressar nessa área da qual gosto muito. Dedico-me a essa área desde o final de 2019 e comecei a trabalhar na área em Agosto de 2021, como um tipo de monitor ajudando na correção e tirando duvidas de alunos, e como desenvolvedor desde Maio de 2022.
+Formei-me em licenciatura em matemática e, alguns anos depois, ao ter contato com pessoas que trabalhavam com desenvolvimento de software, decidi ingressar nessa área da qual gosto muito. Dedico-me a essa área desde o final de 2019 e trabalho como desenvolvedor desde Maio de 2022.
 
 Atualmente, atuo como desenvolvedor backend na Secretaria de Justiça do Estado do Piauí e na PRODATER. Sou um profissional sempre disposto a aprender coisas novas e que busca aperfeiçoar suas habilidades continuamente.
 
@@ -22,6 +22,8 @@ Nas horas vagas gosto de estar com a minha família, ler, estudar, gosto de arte
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23000.svg?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23000.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ## 💻 Linguagens de marcação e estilo que tenho experiência de trabalho:
 
