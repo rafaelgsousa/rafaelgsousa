@@ -34,9 +34,9 @@ Nas horas vagas gosto de estar com a minha família, ler, estudar, gosto de arte
 
 ## 💻 Bancos de Dados que tenho experiência de trabalho:
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)
+![Redis](https://img.shields.io/badge/Redis-white?style=for-the-badge&logo=redis)
 
 ## 💻 Sistema Operacional:
 
