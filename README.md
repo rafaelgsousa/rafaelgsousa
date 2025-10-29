@@ -22,8 +22,8 @@ Nas horas vagas gosto de estar com a minha família, ler, estudar, gosto de arte
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23000.svg?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23000.svg?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23E0234E?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/php-007ACC.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ## 💻 Linguagens de marcação e estilo que tenho experiência de trabalho:
 
